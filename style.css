@@ -1,0 +1,9 @@
+* {
+    font-family: sans-serif;
+}
+
+#map {
+    max-width: 1100px;
+    min-height: calc(100vh - 16px);
+    margin: 0 auto;
+}
